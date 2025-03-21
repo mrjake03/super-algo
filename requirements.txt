@@ -1,1 +1,11 @@
-
+streamlit
+pandas
+xgboost
+scikit-learn
+ta
+alpaca-trade-api
+transformers
+torch
+yfinance
+plotly
+requests
